@@ -20,6 +20,7 @@
     "dotenv": "^16.5.0",
     "expree": "^2.1.0",
     "mongoose": "^8.13.2",
+    "mongoose-paginate-v2": "^1.9.0",
     "prettier": "^3.5.3"
   }
 }
